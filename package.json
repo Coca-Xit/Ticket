@@ -1,7 +1,7 @@
 {
     "name": "Ticket",
     "main": "main.js",
-    "author": "CocaXit",
+    "author": "Coca-Xit",
     "version": "1.0.0",
     "repository": "https://github.com/CocaXit/Ticket.git",
     "description": "A cool Discord bot to manage tickets on your server",
