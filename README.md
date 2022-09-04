@@ -1,2 +1,2 @@
 # Ticket
- bot Ticket
+Bot de ticket discord
